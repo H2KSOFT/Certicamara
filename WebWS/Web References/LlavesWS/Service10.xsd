@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/WcfService" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/WcfService" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="Registrar">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="pub" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Registrar" nillable="true" type="tns:Registrar" />
+  <xs:complexType name="Respuesta">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="id" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Respuesta" nillable="true" type="tns:Respuesta" />
+  <xs:complexType name="Validar">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="clearText" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="cryptedText" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="id" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Validar" nillable="true" type="tns:Validar" />
+  <xs:complexType name="Cifrar">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="id" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="texto" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Cifrar" nillable="true" type="tns:Cifrar" />
+  <xs:complexType name="Cifrado">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="textoCifrado" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Cifrado" nillable="true" type="tns:Cifrado" />
+</xs:schema>

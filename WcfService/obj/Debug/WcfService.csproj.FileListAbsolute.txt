@@ -1,0 +1,4 @@
+C:\H2K\Certicamara\Proyecto\WcfService\WcfService\bin\WcfService.dll
+C:\H2K\Certicamara\Proyecto\WcfService\WcfService\bin\WcfService.pdb
+C:\H2K\Certicamara\Proyecto\WcfService\WcfService\obj\Debug\WcfService.dll
+C:\H2K\Certicamara\Proyecto\WcfService\WcfService\obj\Debug\WcfService.pdb

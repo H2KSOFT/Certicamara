@@ -1,0 +1,4 @@
+C:\H2K\Certicamara\Proyecto\WcfService\WebWS\bin\WebWS.dll
+C:\H2K\Certicamara\Proyecto\WcfService\WebWS\bin\WebWS.pdb
+C:\H2K\Certicamara\Proyecto\WcfService\WebWS\obj\Debug\WebWS.dll
+C:\H2K\Certicamara\Proyecto\WcfService\WebWS\obj\Debug\WebWS.pdb

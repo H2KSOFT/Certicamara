@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\H2K\Certicamara\PublicacionWS" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Perfil1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/WcfService.pdb" publishTime="03/20/2014 14:26:58" />
+    <file relUrl="Service1.svc" publishTime="03/20/2014 11:03:23" />
+    <file relUrl="bin/WcfService.dll" publishTime="03/20/2014 14:26:58" />
+    <file relUrl="Web.config" publishTime="03/20/2014 14:27:53" />
+  </publishProfile>
+</publishData>

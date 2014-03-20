@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfService", "WcfService\WcfService.csproj", "{6A2F909A-8ACD-4C0F-9EB3-ED104D268EFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassEncriptar", "ClassEncriptar\ClassEncriptar.csproj", "{3276EE56-4DAF-44A2-AC71-89ED783CE4D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebWS", "WebWS\WebWS.csproj", "{BE3AA74E-48C2-45AF-B6D3-A21347A31C7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A2F909A-8ACD-4C0F-9EB3-ED104D268EFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A2F909A-8ACD-4C0F-9EB3-ED104D268EFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A2F909A-8ACD-4C0F-9EB3-ED104D268EFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A2F909A-8ACD-4C0F-9EB3-ED104D268EFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3276EE56-4DAF-44A2-AC71-89ED783CE4D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3276EE56-4DAF-44A2-AC71-89ED783CE4D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3276EE56-4DAF-44A2-AC71-89ED783CE4D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3276EE56-4DAF-44A2-AC71-89ED783CE4D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE3AA74E-48C2-45AF-B6D3-A21347A31C7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE3AA74E-48C2-45AF-B6D3-A21347A31C7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE3AA74E-48C2-45AF-B6D3-A21347A31C7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE3AA74E-48C2-45AF-B6D3-A21347A31C7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

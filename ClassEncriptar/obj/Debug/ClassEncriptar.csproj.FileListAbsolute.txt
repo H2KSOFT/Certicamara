@@ -1,0 +1,5 @@
+C:\H2K\Certicamara\Proyecto\WcfService\ClassEncriptar\bin\Debug\ClassEncriptar.pdb
+C:\H2K\Certicamara\Proyecto\WcfService\ClassEncriptar\obj\Debug\ClassEncriptar.pdb
+C:\H2K\Certicamara\Proyecto\WcfService\ClassEncriptar\bin\Debug\ClassEncriptar.exe
+C:\H2K\Certicamara\Proyecto\WcfService\ClassEncriptar\obj\Debug\ClassEncriptar.exe
+C:\H2K\Certicamara\Proyecto\WcfService\ClassEncriptar\bin\Debug\ClassEncriptar.exe.config
